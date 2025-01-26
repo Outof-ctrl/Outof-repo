@@ -6,3 +6,4 @@ pause
 
 REM Ouvrir le fichier texte créé pour confirmer visuellement
 start notepad %TEMP%\test_button_result.txt
+pause
